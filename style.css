@@ -1,0 +1,58 @@
+body
+{
+background-size:cover;
+}
+
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float:right;
+    border: 1px solid black;
+    
+}
+
+#start{
+   
+    width: 130px;
+    font-size: 20px;
+    color: white;
+}
+
+#restart_btn{
+    border-radius: 8px;
+    width: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+   background-color: rgb(140, 178, 201);
+   color:white;
+   line-height: 2;
+   font-size: 23px;
+   text-shadow: 5px 5px 5px rgb(24, 21, 21);
+}
+canvas 
+  {
+    border:3px solid white;
+    border-radius: 20px;
+    box-shadow:  5px 5px 5px white;
+      
+  }
